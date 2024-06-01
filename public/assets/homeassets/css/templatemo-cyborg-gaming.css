@@ -79,7 +79,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #1e1e1e;
+  background-color: #ffffff;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -97,7 +97,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #fff;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -123,21 +123,19 @@ Global Styles
 */
 html,
 body {
-  background: #1f2122;
+  background: #ffffff;
   font-family: 'Poppins', sans-serif;
 }
 
 body .page-content {
   margin-top: 110px;
   margin-bottom:25px;
-  background-color: #2c2b2b;
-  padding: 60px;
-  border-radius: 23px;
+  background-color: #ffffff;
 }
 
 p {
   font-size: 15px;
-  color: #666;
+  color: #000000;
   line-height: 30px;
   margin-bottom: 0px;
 }
@@ -159,7 +157,7 @@ p {
 
 .main-button a {
   font-size: 14px;
-  color: #fff;
+  color: #000000;
   background-color: #e75e8d;
   padding: 12px 30px;
   display: inline-block;
@@ -233,7 +231,7 @@ p {
 }
 
 section {
-  margin-top: 120px;
+  margin-top: 50px;
 }
 
 .heading-section h4 {

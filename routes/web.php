@@ -1,6 +1,6 @@
 <?php
-
 use Illuminate\Support\Facades\Route;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -40,3 +40,24 @@ Route::get('/privacy', function () {
 Route::get('/fqa', function () {
     return view('frontend.subpages.fqa');
 });
+
+Route::get('/admin', function () {
+    return view('backend.pages.admin');
+});
+
+
+
+Route::resource('products/laptop','App\Http\Controllers\LaptopController');
+Route::get('/products/laptop','App\Http\Controllers\LaptopController@index')->name('product.laptop.index');
+Route::get('/products/laptop/create','App\Http\Controllers\LaptopController@create')->name('product.laptop.store');
+Route::post('/products/laptop','App\Http\Controllers\LaptopController@store')->name('product.laptop.index');
+Route::get('/products/laptop/{id}','App\Http\Controllers\LaptopController@show')->name('product.laptop.show');
+Route::get('/products/laptop/{id}/edit','App\Http\Controllers\LaptopController@edit')->name('product.laptop.edit');
+Route::put('/products/laptop/{id}','App\Http\Controllers\LaptopController@update')->name('product.laptop.update');
+Route::delete('/products/laptop/{id}','App\Http\Controllers\LaptopController@destroy')->name('product.laptop.destroy');
+
+
+
+
+
+
