@@ -3,7 +3,7 @@
 @section('content')
 <style>
     .contact-form {
-        background-color: #343a40;
+        background-color: #ffffff;
         padding: 30px;
         border-radius: 10px;
         color: white;
@@ -12,7 +12,8 @@
         color: #007bff;
     }
     .contact-form label {
-        color: white;
+        margin: 10px 0;
+        color: rgb(0, 0, 0);
     }
 </style>
 <div class="container">
@@ -53,7 +54,7 @@
                 <div class="row justify-content-center mt-5">
                     <div class="col-md-8">
                         <h3 class="text-center my-2">Our Contact Details</h3>
-                        <div class="contact-details bg-dark text-white p-4 rounded">
+                        <div class="contact-details  text-white p-4 rounded">
                             <p><strong>Address:</strong> Phnom Penh, Cambodia</p>
                             <p><strong>Email:</strong> info@piseth-computer.com.kh</p>
                             <p><strong>Phone:</strong> +855 1234 5678</p>

@@ -16,7 +16,7 @@
 
                 <h3>Use of Information</h3>
                 <p>The information we collect from you may be used in the following ways:</p>
-                <ul style="color: white;">
+                <ul style="color: rgb(0, 0, 0);">
                     <li>To personalize your experience on our site</li>
                     <li>To improve our website based on your feedback</li>
                     <li>To process transactions efficiently</li>

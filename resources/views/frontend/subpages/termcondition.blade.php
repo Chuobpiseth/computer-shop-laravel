@@ -18,7 +18,7 @@
                 <h3>II. Method of Payment</h3>
                 <h4>Cash on Delivery</h4>
                 <p>Your order will be delivered within 1-2 working days after verification by our customer service team. Cash payment is made upon delivery.</p>
-                <ul style="color: white;">
+                <ul style="color: rgb(0, 0, 0);">
                     <li>Supported Currency: US Dollars or Khmer Riels</li>
                     <li>No fee for delivery in Phnom Penh</li>
                     <li>Delivery charges apply for other locations in Cambodia</li>
@@ -27,7 +27,7 @@
 
                 <h4>Local Bank Transfer</h4>
                 <p>Your order will be delivered within 1-3 working days after payment verification.</p>
-                <ul style="color: white;">
+                <ul style="color: rgb(0, 0, 0);">
                     <li>Supported Currency: US Dollars or Khmer Riels</li>
                     <li>No fee for delivery in Phnom Penh</li>
                     <li>Delivery charges apply for other locations in Cambodia</li>
@@ -36,7 +36,7 @@
 
                 <h4>Credit and Debit Cards (Visa, MasterCard, UnionPay)</h4>
                 <p>Payment processing takes 3-5 working days. Order will be delivered within 1-3 working days after payment verification.</p>
-                <ul style="color: white;">
+                <ul style="color: rgb(0, 0, 0);">
                     <li>Supported Currency: US Dollars or Khmer Riels</li>
                     <li>No fee for delivery in Phnom Penh</li>
                     <li>Delivery charges apply for other locations in Cambodia</li>

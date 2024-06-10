@@ -25,9 +25,8 @@
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                         <li><a class="fw-bold" href="/" class="active">Home</a></li>
-                        <li><a class="fw-bold" href="/brands">Brands</a></li>
+                        <li><a class="fw-bold" href="/desktop">Desktops</a></li>
                         <li><a class="fw-bold" href="/laptops">Laptops</a></li>
-                        <li><a class="fw-bold" href="/promotion">Promotion</a></li>
                         <li><a class="fw-bold" href="/contact">Contacts</a></li>
                         <li><a class="fw-bold" href="/about">About Us <img src="{{asset('assets/homeassets/images/profile-header.png')}}" alt=""></a></li>
                     </ul>

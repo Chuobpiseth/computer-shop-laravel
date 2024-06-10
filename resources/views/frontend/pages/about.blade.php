@@ -62,8 +62,8 @@
                       <div class="col-lg-4 align-self-center">
                         <div class="main-info header-text">
                           <span>Owner Info</span>
-                          <h4>CHUOB PISETH</h4>
-                          <p>The CEO of Piseth Computer Shop.</p>
+                          <h4 class="text-light">CHUOB PISETH</h4>
+                          <p class="text-light">The CEO of Piseth Computer Shop.</p>
                           <div class="main-border-button">
                             <a href="https://chuobpiseth.vercel.app/about" target="_blank">Read More</a>
                           </div>
